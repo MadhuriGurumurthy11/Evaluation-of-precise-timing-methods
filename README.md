@@ -1,2 +1,3 @@
 # Evaluation-of-precise-timing-methods
 
+Computers and networks are becoming increasing fast, accuracy expectations are extending from milliseconds to nanoseconds. Hence the precision timing methods are analyzed widely throughout the computer networks in-order to deal with clock synchronization (the idea that internal clocks of several computers may differ). In this project, various methods of precision timings in Linux/Unix environment are examined and results are evaluated. This has been achieved by carefully conducting an experiment, performing statistical analysis and quantitative comparisons of the timings.
